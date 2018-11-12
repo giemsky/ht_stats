@@ -1,0 +1,26 @@
+{
+  "name": "ht_stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/giemsky/ht_stats.git"
+  },
+  "author": "Greg Miklaszewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giemsky/ht_stats/issues"
+  },
+  "homepage": "https://github.com/giemsky/ht_stats#readme",
+  "dependencies": {
+    "csv-writer": "^1.2.0",
+    "debug": "^4.1.0",
+    "dotenv": "^6.1.0",
+    "puppeteer": "^1.10.0",
+    "util": "^0.11.1"
+  }
+}
